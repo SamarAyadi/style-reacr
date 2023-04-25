@@ -1,0 +1,26 @@
+.text-center{
+    text-align: center;
+}
+
+.title{
+    font-size: 30px;
+}
+
+.black{
+    color: #000; 
+}
+
+.blue{
+    color:blue;
+}
+
+.button {
+    color: #fff;
+    border: 2px solid #1e4aad;
+    padding: 7px 15px;
+    font-size: 16px ;
+    font-weight: bold;
+    background-color: #1e4aad;
+    cursor: pointer;
+    border-radius: 4px;
+}
